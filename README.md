@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Simran
+- 👩🏻‍🏫 I am studying Computer Science at Univeristy of Manitoba
 - 👀 I’m interested in Full-Stack Web Development
 - 🌱 I’m currently learning Spring Boot
 - 📫 How to reach me simrankaur75877@gmail.com
