@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Real-Time Collaboration Tool<br><br>🌱 I’m currently learning React, Spring boot<br><br> 💻  Portfolio: simran-portfolio.ca <br><br>📫 How to reach me simrankaur75877@gmail.com
+🔭 I’m currently working on Real-Time Collaboration Tool<br><br>🌱 I’m currently learning React, Spring boot<br><br> 💻  Portfolio: www.simran-portfolio.ca <br><br>📫 How to reach me simrankaur75877@gmail.com
 
 
 ## 🌐 Socials:
